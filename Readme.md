@@ -15,4 +15,4 @@ Com o javascript, criei uma função que retorna dois tipos de mensagem distintas 
 Caso ele tenha preenchido todos os campos obrigatórios corretamente, o site retornará uma mensagem dizendo que os dados foram enviados.
 Caso o contrário, este retornará uma mensagem de erro, informando que o usuário deve conferir os campos obrigatórios;
 
-Site hospedado no netlify: 
+Site hospedado no netlify: https://cadastro-pessoal-itau-tech.netlify.app/
